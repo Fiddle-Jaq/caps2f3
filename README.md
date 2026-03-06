@@ -1,5 +1,4 @@
-# caps2f3
-## CapsLock to F3 Remapper
+# caps2f3 - CapsLock to F3 Remapper
 
 CapsLock キーを F3 キーに変換する AutoHotkey v2 スクリプトです。
 
